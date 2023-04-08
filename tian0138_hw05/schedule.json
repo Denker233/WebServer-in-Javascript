@@ -1,0 +1,57 @@
+{
+  "monday": [
+    {
+      "name": "Csci 4131 Lecture",
+      "start": "11:15",
+      "end": "12:30",
+      "phone": "See Class information on Canvas",
+      "location": "105 Tate Hall",
+      "info": "CSci 4131 Info",
+      "url": "https://onestop2.umn.edu/pcas/viewCatalogCourse.do?courseId=790654"
+    },
+    {
+      "name": "Csci 4131 Lecture",
+      "start": "10:15",
+      "end": "12:30",
+      "phone": "See Class information on Canvas",
+      "location": "105 Tate Hall",
+      "info": "CSci 4131 Info",
+      "url": "https://onestop2.umn.edu/pcas/viewCatalogCourse.do?courseId=790654"
+    }
+  ],
+  "tuesday": [],
+  "wednesday": [
+    {
+      "name": "CSci 4131 Lecture",
+      "start": "11:15",
+      "end": "12:30",
+      "phone": "See Class information on Canvas",
+      "location": "105 Tate Hall",
+      "info": "CSci 4131 Info",
+      "url": "https://onestop2.umn.edu/pcas/viewCatalogCourse.do?courseId=790654"
+    }
+  ],
+  "thursday": [],
+  "friday": [],
+  "saturday": [],
+  "sunday": [
+    {
+      "name": "sleep",
+      "start": "00:01",
+      "end": "13:22",
+      "phone": "6124337167",
+      "location": "Minneapolis, MN",
+      "info": "dsfdasf",
+      "url": "http://www.sleep.com/"
+    },
+    {
+      "name": "sleep",
+      "start": "01:22",
+      "end": "14:11",
+      "phone": "6124337167",
+      "location": "Minneapolis, MN",
+      "info": "12334",
+      "url": "http://www.sleep.com"
+    }
+  ]
+}
